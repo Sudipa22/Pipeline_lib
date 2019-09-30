@@ -7,5 +7,6 @@ def call(gitlab,branch_name) {
                 userRemoteConfigs: [[url: "${gitlab}"]]
                 ])
                 }
+}
 
 
